@@ -3,39 +3,47 @@
     "flags": {},
     "shapes": [
         {
-            "label": "zone",
+            "label": "line1",
             "points": [
                 [
-                    238.1290322580645,
-                    454.80645161290323
+                    383,
+                    465
                 ],
                 [
-                    690.5483870967741,
-                    286.258064516129
-                ],
-                [
-                    1157.483870967742,
-                    307.2258064516129
-                ],
-                [
-                    1260.7096774193549,
-                    613.6774193548387
+                    539,
+                    1072
                 ]
             ],
             "group_id": null,
-            "shape_type": "polygon",
+            "shape_type": "line",
             "flags": {}
         },
         {
-            "label": "direction01",
+            "label": "line2",
             "points": [
                 [
-                    655.0645161290323,
-                    575.7741935483871
+                    557,
+                    353
                 ],
                 [
-                    943.7741935483871,
-                    274.16129032258067
+                    1274,
+                    277
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "line",
+            "flags": {}
+        },
+        {
+            "label": "line3",
+            "points": [
+                [
+                    626,
+                    1072
+                ],
+                [
+                    1913,
+                    477
                 ]
             ],
             "group_id": null,
@@ -45,6 +53,6 @@
     ],
     "imagePath": "cam_04.png",
     "imageData": null,
-    "imageHeight": 720,
-    "imageWidth": 1280
+    "imageHeight": 1080,
+    "imageWidth": 1920
 }
